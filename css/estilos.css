@@ -1,3 +1,20 @@
-html,body{height: 50
-	%}
+html,body{height: 100%}
 body{background: linear-gradient(silver,aquamarine) }
+
+.caja{
+	border: 5px solid black;
+	text-align: middle;}
+
+.caja img{
+	display: block;
+	width: 25%;
+	transition: all 60s;
+	text-align: center;
+	transform: rotate(360deg);
+}
+
+
+h1 {text-align: center; font: 200px; 
+	color: #FA870B;
+	border: 5px solid black;
+
