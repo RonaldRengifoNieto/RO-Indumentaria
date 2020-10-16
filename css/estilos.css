@@ -1,4 +1,4 @@
-html,body{height: 500%}
+html,body{height: 100%}
 body{background: linear-gradient(silver,aquamarine,silver) }
 
 .caja{
@@ -20,7 +20,7 @@ body{background: linear-gradient(silver,aquamarine,silver) }
  h1 {text-align: right; font: italic cursive; font: 200px; 
 	color: white;  }
 
-<body> {background: border-right 500%)}
+<body> {background: border-right 100%)}
 
 footer {text-align: right; font: italic cursive; font: 100px; 
 	color: white}
