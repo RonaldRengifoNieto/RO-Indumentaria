@@ -1,0 +1,1 @@
+se agrega fondo, titulo 1, titulo 2 como navegadores, logo con modificadores, titulo 3 y pie de pagina a mi primera pagina web.
