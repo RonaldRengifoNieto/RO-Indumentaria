@@ -12,14 +12,12 @@ body{background: linear-gradient(silver,aquamarine,silver) }
 	transform: rotate(360deg);
 }
 
- nav{text-align: center;font: italic cursive; font: 200px; 
+ nav{text-align: center;font: italic cursive; font: 300px; 
 	color: black}
 
 
- h1 {text-align: right; font: italic cursive; font: 200px; 
+ h1 {text-align: right; font: italic cursive; font: 300px; 
 	color: white;  }
 
-<body> {background: 100%)}
-
 footer {text-align: center; font: italic cursive; font: 200px; 
-	color: white}
+	color: green}
