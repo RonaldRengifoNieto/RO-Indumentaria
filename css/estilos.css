@@ -11,13 +11,13 @@ body{background: linear-gradient(silver,aquamarine,silver) }
 	text-align: center;
 	transform: rotate(360deg);
 }
-h1 {text-align: center; font: italic; font: cursive; font: 300px; 
+h1 {text-align: center; font: University.ttf; font: cursive; font: 300px; 
 	color: black;  }
 
-h2{text-align: center;font: italic cursive; font: 300px; 
+h2{text-align: center;font: University.ttf; font: 300px; 
 	color: purple}
 
-li{direction: horizontal; font: italic cursive; font: 300px; 
+li{direction: horizontal; font: University.ttf ; font: 300px; 
 	color: green}
 
 footer {text-align: center; font: italic cursive; font: 200px; 
