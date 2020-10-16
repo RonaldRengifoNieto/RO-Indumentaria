@@ -2,7 +2,7 @@ html,body{height: 100%}
 body{background: linear-gradient(silver,aquamarine,silver) }
 
 .caja{
-	text-align: right;}
+	text-align: center;}
 
 .caja img{
 	display: block;
@@ -11,13 +11,14 @@ body{background: linear-gradient(silver,aquamarine,silver) }
 	text-align: center;
 	transform: rotate(360deg);
 }
+h1 {text-align: center; font: italic; font: cursive; font: 300px; 
+	color: black;  }
 
- nav{text-align: center;font: italic cursive; font: 300px; 
-	color: black}
+h2{text-align: center;font: italic cursive; font: 300px; 
+	color: purple}
 
-
- h1 {text-align: right; font: italic cursive; font: 300px; 
-	color: white;  }
+li{direction: horizontal; font: italic cursive; font: 300px; 
+	color: green}
 
 footer {text-align: center; font: italic cursive; font: 200px; 
 	color: green}
