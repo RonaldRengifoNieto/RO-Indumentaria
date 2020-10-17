@@ -2,15 +2,24 @@ html,body{height: 100%}
 body{background: linear-gradient(silver,aquamarine,silver) }
 
 .caja{
-	text-align: center;}
+	text-align: center; align-content: center;}
 
 .caja img{
 	display: block;
 	width: 30%;
 	transition: all 60s;
-	text-align: center;
-	transform: rotate(360deg);
+	
+	transform: rotate(360deg);text-align: center;
 }
+
+.aside blockquote {
+
+	display: block;
+	width: 50%;
+	transition: all 2s
+    transform: scale(200%) ; 
+    text-align: center;}
+
 h1 {text-align: center; font-style: University.ttf; font: cursive; font: 300px; 
 	color: black;  }
 
