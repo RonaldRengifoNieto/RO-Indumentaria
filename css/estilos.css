@@ -13,11 +13,6 @@ body{background: linear-gradient(silver,aquamarine,silver) }
 }
 
 .aside blockquote {
-
-	display: block;
-	width: 50%;
-	transition: all 2s
-    transform: scale(200%) ; 
     text-align: center;}
 
 h1 {text-align: center; font-style: University.ttf; font: cursive; font: 300px; 
