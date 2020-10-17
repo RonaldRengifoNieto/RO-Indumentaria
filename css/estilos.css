@@ -5,11 +5,10 @@ body{background: linear-gradient(silver,aquamarine,silver) }
 	text-align: center; align-content: center;}
 
 .caja img{
-	display: block;
-	width: 30%;
+	text-align: center;
+	display: block; width: 30%; 
 	transition: all 60s;
-	
-	transform: rotate(360deg);text-align: center;
+	transform: rotate(360deg);
 }
 
 .aside blockquote {
@@ -23,6 +22,11 @@ h2{text-align: center; font: University.ttf; font: 300px;
 
 li{direction: horizontal; font: University.ttf ; font: 300px; 
 	color: green}
+form {text-align: center; font: cursive;}
 
-footer {text-align: center; font: University.ttf; font: 200px; 
+footer {text-align: center; font: cursive; font: 200px; 
 	color: green}
+
+img{width: 100%;}
+
+figcaption{text-align: center;}
